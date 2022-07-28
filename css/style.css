@@ -23,10 +23,16 @@ img {
 }
 .main {
   background: honeydew;
+  height: 540px;
   border-radius: 10px;
+
   width: 600px;
 }
 .links {
   margin: 10px;
   text-decoration: none;
+  border: 1px solid #f8b0ae;
+  padding: 10px;
+  border-radius: 5px;
+  background: #f8b0ae;
 }
