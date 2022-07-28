@@ -24,3 +24,8 @@ img {
 .link-page {
   margin-top: 15px;
 }
+.main {
+  background: honeydew;
+  border-radius: 10px;
+  width: 600px;
+}
