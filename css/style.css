@@ -13,10 +13,7 @@ body {
 p {
   line-height: 27px;
 }
-.links {
-  margin: 10px;
-  text-decoration: none;
-}
+
 img {
   width: 600px;
   border-radius: 10px;
@@ -28,4 +25,8 @@ img {
   background: honeydew;
   border-radius: 10px;
   width: 600px;
+}
+.links {
+  margin: 10px;
+  text-decoration: none;
 }
